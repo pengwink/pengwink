@@ -43,7 +43,7 @@
 ## 🎨 趣味数据
 <!-- GitHub 贡献图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pengwink&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_color=%23d93636&right_color=%23083f5e&logo=github&query_only=true" alt="visitor badge"/>
