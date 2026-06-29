@@ -29,8 +29,8 @@
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pengwink&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;height:205px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengwink&layout=compact&theme=radical" alt="常用语言" style="width: 48%; height:205px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pengwink&show_icons=true&theme=radical&count_private=true&card_width=445" alt="GitHub 统计" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengwink&layout=compact&theme=radical&card_width=445" alt="常用语言" style="height: 195px;"/>
 </div>
 
 ## 🎨 趣味数据
