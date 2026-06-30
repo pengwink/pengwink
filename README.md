@@ -34,6 +34,13 @@
 - 💬 擅长：[「后端接口设计、ai应用开发」]
 - ⚡ 趣味：[「Steam 游戏爱好者、摄影、徒步」]
 
+## git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/snake.svg">
+  <img alt="snake" src="./.github/assets/snake.svg">
+</picture>
+
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
